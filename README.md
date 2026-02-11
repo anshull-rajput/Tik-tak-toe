@@ -80,7 +80,7 @@ g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
 ## 👨‍💻 Author
 
 Anshul Rajput
-Software Developer | C++,Python Developer & AI Enthusiast
+Software Developer | C++,Python
 👉 GitHub: https://github.com/anshull-rajput
 👉 LinkedIn: www.linkedin.com/in/anshull-rajput
 
