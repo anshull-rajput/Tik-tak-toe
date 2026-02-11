@@ -77,7 +77,6 @@ int main() {
         }
         else if (key == 13) {
             if (board[cy][cx] == ' ') {
-                (board[cn][cz] == ' ')
                 board[cy][cx] = (turnX ? 'X' : 'O');
                 turnX = !turnX;
 
@@ -93,3 +92,4 @@ int main() {
     return 0;
 
 }
+
