@@ -21,6 +21,7 @@ void gotoxy(int x, int y) {
 
 void printBoard() {
     system("cls");
+    cout << "Lets Check your Mind and Your Friends Mind who are the Best  ";
     cout << "\n  Use Arrow Keys to Move | Press ENTER to Place X/O\n\n";
     for (int i = 0; i < 3; i++) {
         cout << "     ";
@@ -90,6 +91,4 @@ int main() {
     }
 
     return 0;
-
 }
-
