@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🎯%20Tic%20Tac%20Tor&fontSize=40&fontAlignY=35&desc=Test%20Your%20Logic%20%7C%20Have%20Fun%20%7C%20Learn%20(C➕➕)&descAlignY=55" />
 </p>
 
+---
+
 ## 🎮 Tic-Tac-Toe (C++)
 
 A simple and interactive Tic-Tac-Toe game built in C++, featuring:
