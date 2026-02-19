@@ -93,5 +93,7 @@ Software Developer | C++,Python
 
 ## ⭐ If you like my work, please consider giving a star!
 
+---
+
 
 
