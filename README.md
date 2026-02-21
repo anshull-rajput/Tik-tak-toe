@@ -7,7 +7,7 @@
 </p>
 
 
-## 🎮 Tic-Tac-Toe (C++)
+## 🎮 *Tic-Tac-Toe (C++)*
 
 A simple and interactive Tic-Tac-Toe game built in C++, featuring:
 
@@ -25,7 +25,7 @@ This project demonstrates fundamental programming concepts such as loops, condit
 </p>
 
 
-## 📸 Game Preview (Console Output)
+## 📸 *Game Preview (Console Output)*
 
 Text
 ==============================
@@ -45,7 +45,7 @@ Choose (1-4):
 </p>
 
 
-## 📁 Project Structure
+## 📁 *Project Structure*
 
 | File | Description |
 |------|-------------|
@@ -61,7 +61,7 @@ Choose (1-4):
 
 
 
-## 🛠 How to Compile (Windows)
+## 🛠 *How to Compile (Windows)*
 
 Basic Version
 
@@ -79,7 +79,7 @@ g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-## 🚀 Features
+## 🚀 *Features*
 
 🧠 AI opponent using Minimax
 
@@ -103,6 +103,11 @@ g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
 ## *Anshul Rajput*
 ## *Software Developer | C++,Python*
 
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🌐 *Connect with Me*
 <p align="center">
