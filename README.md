@@ -74,7 +74,10 @@ g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
 ./tictactoe_ai.exe
 
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 🚀 Features
 
@@ -90,7 +93,10 @@ g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
 
 
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## 👨‍💻 Author
 
@@ -109,12 +115,17 @@ Software Developer | C++,Python
 </p>
 
 
-
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ## ⭐ If you like my work, please consider giving a star!
 
----
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 
 
