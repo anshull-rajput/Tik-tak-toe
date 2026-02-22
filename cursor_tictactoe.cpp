@@ -35,6 +35,7 @@ void printBoard() {
     }
 }
 
+
 bool checkWin() {
     for (int i = 0; i < 3; i++) {
         if (board[i][0] == board[i][1] &&
@@ -92,3 +93,4 @@ int main() {
 
     return 0;
 }
+
