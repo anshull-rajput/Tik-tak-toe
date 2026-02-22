@@ -19,6 +19,7 @@ void gotoxy(int x, int y) {
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), c);
 }
 
+
 void printBoard() {
     system("cls");
     cout << "Lets Check your Mind and Your Friends Mind who are the Best  ";
@@ -35,7 +36,6 @@ void printBoard() {
     }
 }
 
-
 bool checkWin() {
     for (int i = 0; i < 3; i++) {
         if (board[i][0] == board[i][1] &&
@@ -48,7 +48,6 @@ bool checkWin() {
             board[0][i] != ' ')
             return true;
     }
-
     if (board[0][0] == board[1][1] &&
         board[1][1] == board[2][2] &&
         board[0][0] != ' ')
@@ -92,7 +91,4 @@ int main() {
     }
 
     return 0;
-
 }
-
-
