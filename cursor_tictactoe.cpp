@@ -61,6 +61,7 @@ bool checkWin() {
     return false;
 }
 
+
 int main() {
     int key;
 
@@ -76,6 +77,7 @@ int main() {
             else if (arrow == 75 && cx > 0) cx--;
             else if (arrow == 77 && cx < 2) cx++;
         }
+            
         else if (key == 13) {
             if (board[cy][cx] == ' ') {
                 board[cy][cx] = (turnX ? 'X' : 'O');
@@ -91,4 +93,8 @@ int main() {
     }
 
     return 0;
+
+
+
 }
+
