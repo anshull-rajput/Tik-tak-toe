@@ -1,132 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🎯%20Tic%20Tac%20Tor&fontSize=40&fontAlignY=35&desc=Test%20Your%20Logic%20%7C%20Have%20Fun%20%7C%20Learn%20(C➕➕)&descAlignY=55" />
-</p>
+# 🎮 Tic-Tac-Toe
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+A simple Tic-Tac-Toe game built in **C++**. It includes a 2-player mode and an optional AI opponent using the **Minimax algorithm**.
 
+## Features
 
-## 🎮 *Tic-Tac-Toe (C++)*
+- 2-player local game
+- Play against computer
+- Simple console interface
+- Input validation
+- Minimax-based AI
 
-
-A simple and interactive Tic-Tac-Toe game built in C++, featuring:
-
-✔ 2-Player Local Mode
-✔ AI Mode using Minimax Algorithm
-✔ Clean console UI
-✔ Input validation & error handling
-✔ Organized & modular code
-
-This project demonstrates fundamental programming concepts such as loops, conditions, game logic, decision-making, and basic AI.
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-## 📸 *Game Preview (Console Output)*
-
-Text
-==============================
-      Tic-Tac-Toe (Console)
-==============================
-
-1) 2-player (Local)
-2) Play vs Computer (You are X)
-3) Play vs Computer (Computer starts as X)
-4) Exit
-
-Choose (1-4):
-                           
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-## 📁 *Project Structure*
+## Files
 
 | File | Description |
-|------|-------------|
-| tictactoe.cpp | Local 2-player mode |
-| tictactoe_ai.cpp | AI mode using Minimax |
-| output.txt | Saved console output preview |
-| README.md | Project documentation |
+|---|---|
+| `tictactoe.cpp` | Simple 2-player version |
+| `tictactoe_ai.cpp` | Player vs AI version |
+| `output.txt` | Sample console output |
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
+## How to Run
 
+### 2-Player
 
+```bash
+g++ tictactoe.cpp -o tictactoe
+./tictactoe
+```
 
-## 🛠 *How to Compile (Windows)*
+### Player vs AI
 
-Basic Version
+```bash
+g++ -std=c++17 tictactoe_ai.cpp -o tictactoe_ai
+./tictactoe_ai
+```
 
-g++ tictactoe.cpp -o tictactoe.exe -static-libstdc++ -static-libgcc
-./tictactoe.exe
+## Concepts Used
 
-AI Version
+- C++ basics
+- Arrays
+- Loops and conditions
+- Functions
+- Game logic
+- Minimax algorithm
 
-g++ tictactoe_ai.cpp -o tictactoe_ai.exe -static-libstdc++ -static-libgcc
-./tictactoe_ai.exe
+## Author
 
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 🚀 *Features*
-
-🧠 AI opponent using Minimax
-
-🎯 Error-free user input
-
-🎨 Clean and readable console UI
-
-🔁 Replay option
-
-🧩 Best for learning C++ game development
-
-
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 👨‍💻 *Author*
-
-## *Anshul Rajput*
-## *Software Developer | C++,Python*
-
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-## 🌐 *Connect with Me*
-<p align="center">
-  <a href="mailto:anshulrajput262006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://www.linkedin.com/in/anshull-rajput"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://instagram.com/anshull_rajput_"><img src="https://skillicons.dev/icons?i=instagram"height="45"/></a>
-  <a href="https://api.whatsapp.com/send?phone=919238916565"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="50"/></a>
-  
-</p>
-
-
-
-##  *⭐ If you like my work, please consider giving a star!*
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-
-
+**Anshul Rajput**
